@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="message">Hello Gabriel</string>
+    <string name="message_classification">Classification: %1$s!</string>
+</resources>
